@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+
+  {
+    "title": "DB",
+    "imageSrc": "skills/mysql.png"
+  },
+  
+  {
+    "title": "Uipath",
+    "imageSrc": "skills/uipath.png"
+  }
+]

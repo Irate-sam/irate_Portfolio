@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Event Updates",
+    "imageSrc": "projects/events.jpg",
+    "description": "A static web application utilizing HTML5 and CSS3 to display a dynamic events feed.",
+    "skills": ["HTML5", "CSS"],
+    "demo": "https://iratesam.neocities.org/Event/event",
+    "source": "https://github.com/Irate-sam/EventUpdates?tab=readme-ov-file"
+  },
+  
+  {
+    "title": "Admin Dashboard",
+    "imageSrc": "projects/admindashboard.jpg",
+    "description": "Intuitive admin dashboards with React and JavaScript.",
+    "skills": ["React"],
+    "demo": "https://admindashboard-nine-hazel.vercel.app/",
+    "source": "https://github.com/Irate-sam/admin_dashboard"
+  },
+
+  {
+    "title": "Auto Shopping",
+    "imageSrc": "projects/automated.jpg",
+    "description": "Automating product data extraction and analysis using UiPath for recommendations.",
+    "skills": ["UiPath"],
+    "demo": "NA",
+    "source": "https://github.com/Irate-sam/Automated-Shopping"
+  }
+
+]
